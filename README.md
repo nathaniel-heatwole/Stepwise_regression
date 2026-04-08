@@ -4,7 +4,7 @@ SUMMARY
 
 • Modeling property damage from major U.S. earthquakes using stepwise regression and exposure- and hazard-related variables
 
-• Majority of variation is explained using only: (1) Richter magnitude and (2) population impacted
+• Majority of the variation (>50%) is explained using only: (1) Richter magnitude and (2) population impacted
 
 • Richter magnitude (elasticities: 8.0 to 9.2 percent) is considerably more influential than population (elasticities: 0.88 to 0.93 percent) – order-of-magnitude difference
 
