@@ -26,7 +26,7 @@ MAJOR COMPONENTS
 	
 • Examined similar and "adjacent" model forms (using different predictor variables and input specifications), to ensure the stepwise regression did not select an ad hoc model form
 
-• Regression diagnostics, examining predictions throughout the sample space, regression residuals analysis, and cross-validation (out-of-sample test cases)
+• Regression diagnostics, examining the predictions throughout the sample space, regression residuals analysis, and cross-validation (out-of-sample test cases)
 
 TOOLS USED
 
