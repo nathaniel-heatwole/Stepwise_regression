@@ -6,13 +6,13 @@ SUMMARY
 
 • Majority of variation is explained using only: (1) Richter magnitude and (2) population impacted
 
-• Richter magnitude (elasticities: 8.0 to 9.2 percent) is considerably more influential than population (elasticities: 0.88 to 0.93 percent) – an order-of-magnitude difference
+• Richter magnitude (elasticities: 8.0 to 9.2 percent) is considerably more influential than population (elasticities: 0.88 to 0.93 percent) – order-of-magnitude difference
 
 • Cross-validation indicates predictions are as good as or better than other available methods
 
 MAJOR COMPONENTS
 
-• Reduced-form methodology, using two basic variables: (1) hazard-related (describing the earthquake) and (2) exposure-related (socioeconomic characteristics of the area impacted)
+• Reduced-form methodology using two basic variables: (1) hazard-related (describing the earthquake) and (2) exposure-related (socioeconomic characteristics of the area impacted)
 
 • Empirical data collection: property damage amounts (low/mid/high) and hazard and exposure characteristics (n = 40 earthquakes)
 
@@ -24,7 +24,7 @@ MAJOR COMPONENTS
 
 • Fixed-elasticity, log-log regression models, modeling total property damage (total over all structures and infrastructure)
 	
-• Examining similar and "adjacent" model forms (using different predictor variables and input specifications), to ensure the stepwise regression does not select an ad hoc model form
+• Examined similar and "adjacent" model forms (using different predictor variables and input specifications), to ensure the stepwise regression did not select an ad hoc or incidental model form
 
 • Regression diagnostics, examining predictions throughout the sample space, regression residuals analysis, and cross-validation (out-of-sample test cases)
 
