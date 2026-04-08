@@ -12,7 +12,7 @@ SUMMARY
 
 MAJOR COMPONENTS
 
-• Reduced-form methodology using two basic variables: (1) hazard-related (describing the earthquake) and (2) exposure-related (socioeconomic characteristics of the area impacted)
+• Reduced-form methodology using two basic variables: (1) hazard-related (describing the earthquake) and (2) exposure-related (economic characteristics of the area impacted)
 
 • Empirical data collection: property damage amounts (low/mid/high) and hazard and exposure characteristics (n = 40 earthquakes)
 
@@ -20,11 +20,11 @@ MAJOR COMPONENTS
 
 • Feature engineering to transform the training data and maximize the statistical information available from it and its usefulness in a regression model
 
-• Stepwise regression, which simultaneously performs both regression analysis and variable selection (gradually eliminating or adding predictor variables, until some threshold is reached)
+• Stepwise regression, which simultaneously performs both regression analysis and variable selection
 
 • Fixed-elasticity, log-log regression models, modeling total property damage (total over all structures and infrastructure)
 	
-• Examined similar and "adjacent" model forms (using different predictor variables and input specifications), to ensure the stepwise regression did not select an ad hoc or incidental model form
+• Examined similar and "adjacent" model forms (using different predictor variables and input specifications), to ensure the stepwise regression did not select an ad hoc model form
 
 • Regression diagnostics, examining predictions throughout the sample space, regression residuals analysis, and cross-validation (out-of-sample test cases)
 
