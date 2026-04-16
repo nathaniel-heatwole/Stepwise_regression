@@ -1,14 +1,14 @@
 SUMMARY
 
-• Published in: International Journal of Disaster Risk Science (https://link.springer.com/content/pdf/10.1007/s13753-013-0004-z.pdf)
+• Modeling property damage losses from major U.S. earthquakes
 
-• Modeling property damage from major U.S. earthquakes
+• Published: International Journal of Disaster Risk Science (https://link.springer.com/content/pdf/10.1007/s13753-013-0004-z.pdf)
 
-• Majority of the variation is explained using only: (1) Richter magnitude and (2) population impacted
+• Majority of the variation is explained using only two variables: (1) Richter magnitude and (2) population impacted
 
-• Richter magnitude (elasticities: 8.0 to 9.2 percent) is much more influential than population (elasticities: 0.88 to 0.93 percent) – order-of-magnitude difference
+• Richter magnitude (elasticities: 8.0 to 9.2 percent) is far more influential than population (elasticities: 0.88 to 0.93 percent) - order-of-magnitude difference
 
-• Cross-validation indicates predictions are as good as or better than other available methods
+• Out-of-sample testing indicates predictions are as good as or better than other available methods
 
 MAJOR COMPONENTS
 
@@ -30,4 +30,4 @@ MAJOR COMPONENTS
 
 TOOLS USED
 
-• Econometrics, economic impact, catastrophe modeling, geospatial modeling (ArcGIS), feature engineering, measure development, stepwise regression (Matlab), variable selection, model development/evaluation, hypothesis testing, cross-validation
+• Econometrics, economic impact, catastrophe modeling, geospatial modeling (ArcGIS), feature engineering, measure development, stepwise regression (Matlab), variable selection, model development/evaluation, hypothesis testing
