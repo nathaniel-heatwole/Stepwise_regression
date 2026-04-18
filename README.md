@@ -4,9 +4,7 @@ SUMMARY
 
 • Published: International Journal of Disaster Risk Science (https://link.springer.com/content/pdf/10.1007/s13753-013-0004-z.pdf)
 
-• Developed regression-based predictive models, using hazard- and exposure-related characteristics
-
-• Identified variables that are particularly influential/consequential
+• Developed regression-based predictive models, using hazard- and exposure-related characteristics, and identified variables that are particularly influential/consequential
 
 • Majority of variation is explained using only two quantities: (1) Richter magnitude, and (2) population impacted
 
