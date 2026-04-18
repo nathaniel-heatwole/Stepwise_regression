@@ -4,7 +4,11 @@ SUMMARY
 
 • Published: International Journal of Disaster Risk Science (https://link.springer.com/content/pdf/10.1007/s13753-013-0004-z.pdf)
 
-• Majority of the variation is explained using only two variables: (1) Richter magnitude and (2) population impacted
+• Developed regression-based predictive models, using hazard- and exposure-related characteristics
+
+• Identified variables that are particularly influential/consequential
+
+• Majority of variation is explained using only two quantities: (1) Richter magnitude, and (2) population impacted
 
 • Richter magnitude (elasticities: 8.0 to 9.2 percent) is far more influential than population (elasticities: 0.88 to 0.93 percent) - order-of-magnitude difference
 
